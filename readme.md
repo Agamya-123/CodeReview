@@ -59,3 +59,8 @@ The backend will start (default on port 5000 unless specified in your .env).
 The frontend will start (default on port 5173 for Vite).
 
 WAIT FOR FEW SECONDS AFTER CLICKING REVIEW IT WILL TAKE SOME TIME TO GENEARTE THE REVIEW.
+
+## 🎬 Project Demo
+
+[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge)](https://drive.google.com/file/d/18dQgvWoCJe55ICsmxy3EpKcnFEECYAqy/view?usp=sharing)
+
